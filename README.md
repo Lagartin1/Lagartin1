@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a studente of Computer Engineering at the Universidad Austral de Chile<br>
+Im a student of Computer Engineering at the Universidad Austral de Chile<br>
 
 
 ## 🌐 Socials:
